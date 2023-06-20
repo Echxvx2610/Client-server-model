@@ -2,8 +2,6 @@
 #la primera vez que intente crear un socket me arrojaba el sig problema( module 'socket' has no attribute 'socket')
 #tuve que renombrar mi script actual como mysocket y ya que arranco lo renombre a my_server
 
-
-#socket by neuroline
 import socket
 
 #HOST = '172.27.182.132'
